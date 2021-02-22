@@ -1,0 +1,8 @@
+#!/bin/bash
+PH=$(curl -sL http://54.144.46.252/latest/metadata/public)
+
+
+
+
+
+
